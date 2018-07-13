@@ -9,5 +9,7 @@ int main()
 
 	std::cout << "Look I made a change to the file!\n";
 
+	std::cout << "look math ! " << 5 + 7 << std::endl;
+
 	return 0;
 }
